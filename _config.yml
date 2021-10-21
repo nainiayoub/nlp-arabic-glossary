@@ -1,5 +1,5 @@
 title: NLP - The Arabic Glossary
-description: A bilingual glossary for NLP termenology
+description: A bilingual glossary for NLP terminology
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
