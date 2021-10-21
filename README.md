@@ -1,4 +1,4 @@
-![photo-1517574012247-6941b83050d5](https://user-images.githubusercontent.com/50157142/138358889-4d7f8cbc-d4c1-45b0-9968-149b882c390d.jpg)
+
 # Natural Language Processing: The Arabic Glossary
 [`All`](#natural-language-processing-the-arabic-glossary) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
 
