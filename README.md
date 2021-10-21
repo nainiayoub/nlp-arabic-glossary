@@ -33,4 +33,4 @@ The terminology around natural language processing may not only seem difficult t
 <br />
 
 # Want to contribute ?
-See the [Contribution Guide](CONTRIBUTING.md)
+See the [Contribution Guide](https://nainiayoub.github.io/nlp-arabic-glossary/CONTRIBUTING.html)
