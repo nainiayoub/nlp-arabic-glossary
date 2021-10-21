@@ -1,5 +1,4 @@
 
-# Natural Language Processing: The Arabic Glossary
 [`All`](#natural-language-processing-the-arabic-glossary) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
 
 <br />
@@ -12,7 +11,7 @@ The terminology around natural language processing may not only seem difficult t
 <br />
 
 # N
-## Natural Language Processing | معالجة اللغة الطبيعية
+### Natural Language Processing | معالجة اللغة الطبيعية
 حقل فرعي من الذكاء الاصطناعي وعلم اللغات وعلوم الحاسوب، يهتم بدراسة تعلم الآلة للغات البشرية وتفاعلها معها، وتتناول معالجة اللغات الطبيعية فهم اللغة وتوليدها والتعرف على النصوص والكلام
 
 ## Natural Language Understanding | فهم اللغة الطبيعية
