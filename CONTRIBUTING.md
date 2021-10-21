@@ -9,11 +9,13 @@ You can contribute by suggesting new features by opening new issues.
 git clone git@github.com:your-username/nlp-arabic-glossary.git
 ```
 
+
 2. __Navigate to your new project repository__
 
 ```
 cd nlp-arabic-glossary
 ```
+
 
 3. __Create new git branch__
 
