@@ -1,5 +1,5 @@
-
-[`All`](#natural-language-processing-the-arabic-glossary) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
+# Glossary Overview
+[`All`](#glossary-overview) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
 
 <br />
 Natural language processing (NLP) is a theory-motivated range of computational techniques for the automatic analysis and representation of human language. 
