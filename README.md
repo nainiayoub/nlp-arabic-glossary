@@ -8,8 +8,9 @@ Natural language processing (NLP) is a theory-motivated range of computational t
 
 The terminology around natural language processing may not only seem difficult to understand but also confusing to translate. That is why we decided to write this bilingual glossary, to provide accurate translations and NLP specific definitions so that the arabic reader can see more clearly.
 
-## Want to contribute ?
-See the [Contribution Guide](CONTRIBUTING.md)
+* [Project Overview](#project-overview)
+* [Glossary](#glossary)
+* [Want to contribute ?](##want-to-contribute)
 
 <br />
 
@@ -29,4 +30,7 @@ See the [Contribution Guide](CONTRIBUTING.md)
 ### Text Mining | تنقيب النصوص
  عملية استكشاف وتحليل كميات ضخمة من البيانات النصية غير المهيكلة وتحويلها إلى بيانات مهيكلة بمساعدة برمجيات قادرة على تحديد المفاهيم والأنماط والموضوعات والكلمات المفتاحية وغيرها
 
+<br />
 
+# Want to contribute ?
+See the [Contribution Guide](CONTRIBUTING.md)
