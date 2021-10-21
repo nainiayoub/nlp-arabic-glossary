@@ -10,7 +10,7 @@ The terminology around natural language processing may not only seem difficult t
 
 * [Project Overview](#project-overview)
 * [Glossary](#glossary)
-* [Want to contribute ?](##want-to-contribute)
+* [Want to contribute ?](#want-to-contribute-)
 
 <br />
 
