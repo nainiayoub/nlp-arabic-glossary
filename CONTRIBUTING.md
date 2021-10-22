@@ -1,7 +1,11 @@
 # Want to contribute ?
-You can contribute by suggesting new features by opening new issues.
+First off, thank you for considering contributing to __`NLP: The Arabic Glossary`__. You can contribute by suggesting new features by opening new issues and/or adding new glossary items.
 
-## Add new glossary item ?
+* [Add new glossary item](#add-new-glossary-item)
+* [Creating Pull Requests](#creating-pull-requests)
+* [Your first Pull Request ?](#your-first-pull-request-)
+
+## Add new glossary item
 
 1. __Fork then clone the project__
 
@@ -23,7 +27,7 @@ cd nlp-arabic-glossary
 git checkout -b pr/new
 ```
 
-3. __Add new glossary item__
+4. __Add new glossary item__
 
     * Verify that your item doesn't exist on the glossary
     * The original term should be lowercase
@@ -42,3 +46,5 @@ git checkout -b pr/new
 Once you push the changes to your repo, the Compare & pull request button will appear in GitHub.
 * Make sure to leave the source of the translation with your pull request comment
 
+## Your first Pull Request ?
+Here you can find a [Free Community Resource](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) to help you start contributing to open source projects.
