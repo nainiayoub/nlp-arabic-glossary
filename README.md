@@ -8,7 +8,7 @@ Natural language processing (NLP) is a theory-motivated range of computational t
 
 The terminology around natural language processing may not only seem difficult to understand but also confusing to translate. That is why we decided to write this bilingual glossary, to provide accurate translations and NLP specific definitions so that the arabic reader can see more clearly.
 
-* [Project Overview](#nl-the-arabic-glossary)
+* [Project Overview](#nlp---the-arabic-glossary)
 * [Glossary](#glossary)
 * [Want to contribute ?](#want-to-contribute-)
 
@@ -16,18 +16,19 @@ The terminology around natural language processing may not only seem difficult t
 
 # Glossary
 # N
-### Natural Language Processing | معالجة اللغة الطبيعية
+### natural language processing 
+### معالجة اللغة الطبيعية
 حقل فرعي من الذكاء الاصطناعي وعلم اللغات وعلوم الحاسوب، يهتم بدراسة تعلم الآلة للغات البشرية وتفاعلها معها، وتتناول معالجة اللغات الطبيعية فهم اللغة وتوليدها والتعرف على النصوص والكلام
 
 
-### Natural Language Understanding | فهم اللغة الطبيعية
+### natural language understanding | فهم اللغة الطبيعية
 فرع من فروع معالجة اللغة الطبيعية يسمح للحواسيب بفهم وتفسير اللغات البشرية، ويُمكّن تفاعلات الإنسان مع الآلة من خلال تحليل عناصر الجمل في النصوص أو الكلام المنطوق
 
-### Natural Language Generation | توليد اللغة الطبيعية
+### natural language generation | توليد اللغة الطبيعية
 حقل فرعي من حقول الذكاء الاصطناعي يُعنى بعملية إنتاج عبارات وجمل ومقاطع مكتوبة أو منطوقة ذات معنى باللغة الطبيعية التي يتواصل بها البشر. تقوم أنظمة توليد اللغة الطبيعية بتوليد سرد قصصي يصف أو يخلص أو يشرح بيانات الدخل المهيكلة تلقائياً بطريقة مماثلة لما يقوم به البشر. وذلك بالاعتماد على تقنيات التعلم الآلي والتعلم العميق والشبكات العصبونية الاصطناعية.
 
 # T
-### Text Mining | تنقيب النصوص
+### text mining | تنقيب النصوص
  عملية استكشاف وتحليل كميات ضخمة من البيانات النصية غير المهيكلة وتحويلها إلى بيانات مهيكلة بمساعدة برمجيات قادرة على تحديد المفاهيم والأنماط والموضوعات والكلمات المفتاحية وغيرها
 
 <br />
