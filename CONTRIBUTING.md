@@ -48,3 +48,6 @@ Once you push the changes to your repo, the Compare & pull request button will a
 
 ## Your first Pull Request ?
 Here you can find a [Free Community Resource](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) to help you start contributing to open source projects.
+
+<br />
+<br />
