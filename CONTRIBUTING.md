@@ -34,6 +34,7 @@ git checkout -b pr/new
     * The glossary items should be in alphabetic order
     * Place your term under it's first alphabet. If the alphabet header does not exist on the README.md file, create it above your item
     * The added item should consist of: the original term in English, the term in Arabic and the arabic definiton
+    * Add a line break `<br />` at the end of te definition
 
 ```
 # N
