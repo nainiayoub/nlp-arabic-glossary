@@ -34,6 +34,7 @@ git checkout -b pr/new
     * The glossary items should be in alphabetic order
     * Place your term under it's first alphabet. If the alphabet header does not exist on the README.md file, create it above your item
     * The added item should consist of: the original term in English, the term in Arabic and the arabic definiton
+    * Add the translation source
     * Add a line break `<br />` at the end of te definition
 
 ```
@@ -41,6 +42,8 @@ git checkout -b pr/new
 ### natural language processing
 ### معالجة اللغة الطبيعية
 حقل فرعي من الذكاء الاصطناعي وعلم اللغات وعلوم الحاسوب، يهتم بدراسة تعلم الآلة للغات البشرية وتفاعلها معها، وتتناول معالجة اللغات الطبيعية فهم اللغة وتوليدها والتعرف على النصوص والكلام
+
+[View Source](https://www.sourcexample.com)
 
 <br />
 
