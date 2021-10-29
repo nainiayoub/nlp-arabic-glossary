@@ -51,8 +51,7 @@ git checkout -b pr/new
 * Push the changes to your repository
     
 ## Creating pull requests
-Once you push the changes to your repo, the Compare & pull request button will appear in GitHub.
-* Make sure to leave the source of the translation with your pull request comment
+Once you push the changes to your repo, the Compare & pull request button will appear in the GitHub repository.
 
 ## Your first Pull Request ?
 Here you can find a [Free Community Resource](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) to help you start contributing to open source projects.
