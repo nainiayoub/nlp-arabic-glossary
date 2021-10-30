@@ -77,6 +77,16 @@ The terminology around natural language processing may not only seem difficult t
 
 <br />
 
+# S
+### Stemming
+### التشذيب
+يشير التشذيب إلى عملية إزالة اللواحق واختزال كلمة ما إلى شكل أساسي ما بحيث يمكن تمثيل جميع المتغيرات المختلفة لهذه الكلمة بنفس الشكل (على سبيل المثال ، يتم اختزال كل من “car” و “cars” إلى “car”)
+
+
+[View Source](https://ai.malawad.com/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%85/)
+
+<br />
+
 # T
 ### text mining
 ### تنقيب النصوص
