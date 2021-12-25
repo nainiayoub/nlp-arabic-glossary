@@ -1,5 +1,5 @@
 # Want to contribute ?
-First off, thank you for considering contributing to __`NLP: The Arabic Glossary`__. You can contribute by suggesting new features by opening new issues and/or adding new glossary items.
+First off, thank you for considering contributing to __`NLP: The Arabic Glossary`__. You can contribute by suggesting new features, by opening new issues and/or adding new glossary items.
 
 * [Add new glossary item](#add-new-glossary-item)
 * [Creating Pull Requests](#creating-pull-requests)
