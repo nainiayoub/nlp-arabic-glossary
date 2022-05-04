@@ -1,5 +1,5 @@
 # NLP - The Arabic Glossary
-[`All`](#glossary-overview) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
+[`All`](#glossary) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
 
 <br />
 Natural language processing (NLP) is a theory-motivated range of computational techniques for the automatic analysis and representation of human language. <a href="https://ieeexplore.ieee.org/abstract/document/6786458">[1]</a>
