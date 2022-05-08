@@ -97,6 +97,15 @@ This benchmark aims to group Moroccan Darija Datasets to help make them availabl
       <td><a href="https://www.kaggle.com/datasets/jmourad100/mnad-moroccan-news-articles-dataset">source</a></td>
       <td><a href="https://ieeexplore.ieee.org/document/9682402">2021 [7]</a></td>
     </tr>
+    <tr>
+      <td>8</td>
+      <td>QADI: QCRI Arabic Dialect Identification</td>
+      <td>Twitter</td>
+      <td>Maghrebi, Levantine, Egyptian and Gulf</td>
+      <td>540k tweets</td>
+      <td><a href="https://github.com/qcri/QADI">source</a></td>
+      <td><a href="https://arxiv.org/abs/2005.06557">2020 [8]</a></td>
+    </tr>
   </tbody>
 </table>
 
