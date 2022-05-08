@@ -7,6 +7,7 @@ Natural language processing (NLP) is a theory-motivated range of computational t
 The terminology around natural language processing may not only seem difficult to understand but also confusing to translate. That is why we decided to write this bilingual glossary, to provide accurate translations and NLP specific definitions so that the arabic reader can see more clearly.
 
 * [Project Overview](#nlp---the-arabic-glossary)
+* [Moroccan Darija Datasets](#moroccan-darija-datasets)
 * [Glossary](#glossary)
 * [Want to contribute ?](#want-to-contribute-)
 
