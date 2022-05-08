@@ -37,13 +37,13 @@ The terminology around natural language processing may not only seem difficult t
     <tr>
       <td>2</td>
       <td>IADD: An integrated Arabic dialect identification dataset</td>
-      <td>
-        <ul>
+      <td> Varied 
+<!--         <ul>
           <li>Twitter</li>
           <li>Facebook comments</li>
           <li>Manual transcription from recordings of conversations movies or shows</li>
           <li>Readers’ comments in websites of Arabic news papers</li>
-        </ul>
+        </ul> -->
       </td>
       <td>Maghrebi, Levantine, Egyptian and Gulf</td>
       <td>135,804 texts</td>
