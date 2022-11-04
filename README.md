@@ -1,5 +1,5 @@
 # NLP - The Arabic Glossary
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nainiayoub.train-custom-ner)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nainiayoub.nlp-arabic-glossary)
 
 [`All`](#glossary) • [`A`](#a) [`B`](#b) [`C`](#c) [`D`](#d) [`E`](#e) [`F`](#f) [`G`](#g) [`H`](#h) [`I`](#i) [`J`](#j) [`K`](#k) [`L`](#l) [`M`](#m) [`N`](#n) [`O`](#o) [`P`](#p) [`Q`](#q) [`R`](#r) [`S`](#s) [`T`](#t) [`U`](#u) [`V`](#v) [`W`](#w) [`X`](#x) [`Y`](#y) [`Z`](#z) 
 
